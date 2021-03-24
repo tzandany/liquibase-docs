@@ -2,7 +2,7 @@
 
 Documentation for the liquibase website.
 
-***Please send pull requests!***
+***Please send pull requests!*** 
 
 Project Overview - How to apply changes to https://docs.liquibase.com
 ========================================================================
