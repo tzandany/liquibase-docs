@@ -7,7 +7,7 @@ Documentation for the liquibase website.
 Project Overview - How to apply changes to https://docs.liquibase.com
 ========================================================================
 
-1. **Clone/checkout docs.liquibase.com repository**
+1. **Clone/checkout docs.liquibase.com repository** 
     1. git clone https://github.com/Datical/liquibase-docs.git
     3. git branch [newBranchName] (to create a local branch)
     4. git checkout [newBranchName]
